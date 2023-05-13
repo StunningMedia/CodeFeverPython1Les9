@@ -6,7 +6,7 @@ pygame.init()
 breedte = int(input("Breedte: "))
 hoogte = int(input("Hoogte: "))
 kleur = (0,0,0)
-dikte = 1
+dikte = 1 
 
 DISPLAYSURF = pygame.display.set_mode((breedte, hoogte))
 pygame.display.set_caption('Codefever Paint')

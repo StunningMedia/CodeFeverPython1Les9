@@ -1,7 +1,7 @@
 import pygame, sys, time, random
 from pygame.locals import QUIT
 
-pygame.init()
+pygame.init()  
 
 breedte = int(input("Breedte: "))
 hoogte = int(input("Hoogte: "))
